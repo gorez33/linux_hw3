@@ -1,0 +1,38 @@
+   0 vi /tmp/file.txt
+   1 ls -la
+   2 cd /tmp
+   3 ls -ls
+   4 ls -la
+   5 df -h | tail +3 >> /tmp/file.txt
+   6 cat tmp/file.txt
+   7 cat /tmp/file.txt
+   8 chmod /file.txt
+   9 chmod 
+  10 chmod /tmp/file.txt
+  11 chmod ugo wx w x /file.txt
+  12 ls -la
+  13 chmod u-r /file.txt
+  14 chmod u-r file.txt
+  15 ls-la
+  16 ls -la
+  17 chmod g+w o+x file.txt
+  18 chmod g+w file.txt
+  19 chmod o+x file.txt
+  20 ls -la
+  21 export NAME=yan
+  22 export VAR=hello
+  23 ls -la
+  24 cd ..
+  25 ls -la
+  26 env
+  27 $NAME
+  28 $ NAME
+  29 echo $NAME >> /tmp/file.txt
+  30 cat /tmp/file.txt
+  31 naon /tmp/file.txt
+  32 nano /tmp/file.txt
+  33 unset NAME
+  34 unset VAR
+  35 ls -la
+  36 env
+  37 history > /tmp/history.txt
